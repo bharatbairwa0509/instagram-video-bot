@@ -84,5 +84,5 @@ pip install -r requirements.txt
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
-Developed by [Your Name].
+Developed by bharat bairwa.
 
