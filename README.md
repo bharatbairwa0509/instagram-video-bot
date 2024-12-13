@@ -80,8 +80,6 @@ pip install -r requirements.txt
 - The `FLIC_TOKEN` is required for uploading videos to the custom server.
 - Use valid category IDs when creating posts.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author
 Developed by bharat bairwa.
